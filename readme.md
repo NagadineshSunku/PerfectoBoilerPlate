@@ -1,6 +1,6 @@
-# Perfecto-boilerplate
+# Perfecto-Framwork
 
-Boilerplate project to run WebdriverIO tests in Perfecto Cloud ([https://www.perfecto.io/]()) using Cucumber features, and the page objects pattern.
+Framwork to run WebdriverIO tests in Perfecto Cloud ([https://www.perfecto.io/]()) using Cucumber features, and the page objects pattern.
 
 ## Requirements
 

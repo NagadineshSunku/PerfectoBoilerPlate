@@ -1,7 +1,7 @@
 {
-    "name": "webdriverio-v7-cucumber-perfecto-boilerplate",
+    "name": "Perfecto-Framwork",
     "version": "1.0.0",
-    "description": "Boilerplate project to run WebdriverIO tests in Perfecto Cloud ([https://www.perfecto.io/]()) using Cucumber features, and the page objects pattern.",
+    "description": "Perfecto-Framework-Sample-GM",
     "scripts": {
         "perfecto": "node --max_old_space_size=12000 -- node_modules/ts-node/dist/bin -P tsconfig.json src/runner.ts"
     },
